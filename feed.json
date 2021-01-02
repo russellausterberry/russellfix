@@ -11,46 +11,46 @@
     },
     "items": [
         {
-            "id": "https://russellausterberry.github.io/russellfix/handyman.html",
-            "url": "https://russellausterberry.github.io/russellfix/handyman.html",
+            "id": "https://russellausterberry.github.io/russellfix/handyman-2.html",
+            "url": "https://russellausterberry.github.io/russellfix/handyman-2.html",
             "title": "Handyman",
-            "summary": " fiddly jobs ",
-            "content_html": "\n  <p>\n    fiddly jobs\n  </p>",
+            "summary": "I prefer the technical and repair challenges but am also available for fixit or fiddly around-the-house jobs. Assembling furniture, installing shelves, designing space saver fold-out doodahs, or small building projects. Call someone else for mowing, gardening or deck extensions ... but if you have a&hellip;",
+            "content_html": "<p>I prefer the technical and repair challenges but am also available for fixit or fiddly around-the-house jobs. Assembling furniture, installing shelves, designing space saver fold-out doodahs, or small building projects.</p>\n<p>Call someone else for mowing, gardening or deck extensions ... but if you have a fiddly job that can be done in a few days or less give me a call.</p>",
             "author": {
                 "name": "Russell Austerberry"
             },
             "tags": [
             ],
-            "date_published": "2021-01-01T21:06:20+10:00",
-            "date_modified": "2021-01-01T21:06:20+10:00"
+            "date_published": "2021-01-02T12:06:05+10:00",
+            "date_modified": "2021-01-02T12:06:05+10:00"
         },
         {
-            "id": "https://russellausterberry.github.io/russellfix/electrical.html",
-            "url": "https://russellausterberry.github.io/russellfix/electrical.html",
+            "id": "https://russellausterberry.github.io/russellfix/electrical-3.html",
+            "url": "https://russellausterberry.github.io/russellfix/electrical-3.html",
             "title": "Electrical",
-            "summary": " bright spark ",
-            "content_html": "\n  <p>\n    bright spark\n  </p>",
+            "summary": "cars - vans - boatsI've spent over a year as an apprentice electrician on island, getting used to those invisible electrons and how they work. While you need a licensed electrician for any 240v work, I'm quite able to tackle most of the electrical challenges&hellip;",
+            "content_html": "<h3>cars - vans - boats</h3>\n<p>I've spent over a year as an apprentice electrician on island, getting used to those invisible electrons and how they work. While you need a licensed electrician for any 240v work, I'm quite able to tackle most of the electrical challenges in bikes, boats, buggies, vans or e-bikes.</p>\n<h3>TV systems</h3>\n<p>I'm gearing up to be able to diagnose and fix faults with your TV setup, from the antenna down.</p>",
             "author": {
                 "name": "Russell Austerberry"
             },
             "tags": [
             ],
-            "date_published": "2021-01-01T21:06:07+10:00",
-            "date_modified": "2021-01-01T21:06:07+10:00"
+            "date_published": "2021-01-02T12:00:11+10:00",
+            "date_modified": "2021-01-02T12:00:11+10:00"
         },
         {
-            "id": "https://russellausterberry.github.io/russellfix/computers.html",
-            "url": "https://russellausterberry.github.io/russellfix/computers.html",
+            "id": "https://russellausterberry.github.io/russellfix/computers-2.html",
+            "url": "https://russellausterberry.github.io/russellfix/computers-2.html",
             "title": "Computers",
-            "summary": " services re computers ",
-            "content_html": "\n  <p>\n    services re computers\n  </p>",
+            "summary": "RepairI've been tinkering with computers for 30 years which gives me a good sense of how to troubleshoot and repair. There's a lot of issues I can address, and if it's beyond me I'll recommend professional services. What issues do you struggle with? Write a&hellip;",
+            "content_html": "<h3>Repair</h3>\n<p>I've been tinkering with computers for 30 years which gives me a good sense of how to troubleshoot and repair. There's a lot of issues I can address, and if it's beyond me I'll recommend professional services.</p>\n<h3>Tuition</h3>\n<p>What issues do you struggle with? Write a list of what frustrates you, and call me. I recommend one on one tuition sessions, we can straighten out a lot of kinks in an hour. Also see the <a href=\"https://russellausterberry.github.io/russellfix/tips.html\">Tips </a>section for some of my general setup recommendations.</p>\n<h3>Setup</h3>\n<p>NBN. Routers. Antivirus. Email. Syncing settings. Password managers. Phones, tablets, laptops, desktops. iOS, Windows, Linux, Android. Copy stuff. Sort out folders. Whatever... give me a call!</p>\n<h3>Websites</h3>\n<p>Call me to discuss options.</p>",
             "author": {
                 "name": "Russell Austerberry"
             },
             "tags": [
             ],
-            "date_published": "2021-01-01T21:05:46+10:00",
-            "date_modified": "2021-01-01T21:05:46+10:00"
+            "date_published": "2021-01-02T11:49:51+10:00",
+            "date_modified": "2021-01-02T11:54:01+10:00"
         },
         {
             "id": "https://russellausterberry.github.io/russellfix/tips.html",
@@ -65,20 +65,6 @@
             ],
             "date_published": "2021-01-01T20:55:06+10:00",
             "date_modified": "2021-01-01T20:55:06+10:00"
-        },
-        {
-            "id": "https://russellausterberry.github.io/russellfix/services.html",
-            "url": "https://russellausterberry.github.io/russellfix/services.html",
-            "title": "Services",
-            "summary": " jingo jungo services ",
-            "content_html": "\n  <p>\n    jingo jungo services\n  </p>",
-            "author": {
-                "name": "Russell Austerberry"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-01-01T20:54:01+10:00",
-            "date_modified": "2021-01-01T20:54:01+10:00"
         },
         {
             "id": "https://russellausterberry.github.io/russellfix/home.html",

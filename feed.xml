@@ -3,7 +3,7 @@
     <title>Russellfix</title>
     <link href="https://russellausterberry.github.io/russellfix/feed.xml" rel="self" />
     <link href="https://russellausterberry.github.io/russellfix" />
-    <updated>2021-01-02T11:18:58+10:00</updated>
+    <updated>2021-01-02T12:06:05+10:00</updated>
     <author>
         <name>Russell Austerberry</name>
     </author>
@@ -14,21 +14,19 @@
         <author>
             <name>Russell Austerberry</name>
         </author>
-        <link href="https://russellausterberry.github.io/russellfix/handyman.html"/>
-        <id>https://russellausterberry.github.io/russellfix/handyman.html</id>
+        <link href="https://russellausterberry.github.io/russellfix/handyman-2.html"/>
+        <id>https://russellausterberry.github.io/russellfix/handyman-2.html</id>
 
-        <updated>2021-01-01T21:06:20+10:00</updated>
+        <updated>2021-01-02T12:06:05+10:00</updated>
             <summary>
                 <![CDATA[
-                     fiddly jobs 
+                    I prefer the technical and repair challenges but am also available for fixit or fiddly around-the-house jobs. Assembling furniture, installing shelves, designing space saver fold-out doodahs, or small building projects. Call someone else for mowing, gardening or deck extensions ... but if you have a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    fiddly jobs
-  </p>
+                <p>I prefer the technical and repair challenges but am also available for fixit or fiddly around-the-house jobs. Assembling furniture, installing shelves, designing space saver fold-out doodahs, or small building projects.</p>
+<p>Call someone else for mowing, gardening or deck extensions ... but if you have a fiddly job that can be done in a few days or less give me a call.</p>
             ]]>
         </content>
     </entry>
@@ -37,21 +35,21 @@
         <author>
             <name>Russell Austerberry</name>
         </author>
-        <link href="https://russellausterberry.github.io/russellfix/electrical.html"/>
-        <id>https://russellausterberry.github.io/russellfix/electrical.html</id>
+        <link href="https://russellausterberry.github.io/russellfix/electrical-3.html"/>
+        <id>https://russellausterberry.github.io/russellfix/electrical-3.html</id>
 
-        <updated>2021-01-01T21:06:07+10:00</updated>
+        <updated>2021-01-02T12:00:11+10:00</updated>
             <summary>
                 <![CDATA[
-                     bright spark 
+                    cars - vans - boatsI've spent over a year as an apprentice electrician on island, getting used to those invisible electrons and how they work. While you need a licensed electrician for any 240v work, I'm quite able to tackle most of the electrical challenges&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    bright spark
-  </p>
+                <h3>cars - vans - boats</h3>
+<p>I've spent over a year as an apprentice electrician on island, getting used to those invisible electrons and how they work. While you need a licensed electrician for any 240v work, I'm quite able to tackle most of the electrical challenges in bikes, boats, buggies, vans or e-bikes.</p>
+<h3>TV systems</h3>
+<p>I'm gearing up to be able to diagnose and fix faults with your TV setup, from the antenna down.</p>
             ]]>
         </content>
     </entry>
@@ -60,21 +58,25 @@
         <author>
             <name>Russell Austerberry</name>
         </author>
-        <link href="https://russellausterberry.github.io/russellfix/computers.html"/>
-        <id>https://russellausterberry.github.io/russellfix/computers.html</id>
+        <link href="https://russellausterberry.github.io/russellfix/computers-2.html"/>
+        <id>https://russellausterberry.github.io/russellfix/computers-2.html</id>
 
-        <updated>2021-01-01T21:05:46+10:00</updated>
+        <updated>2021-01-02T11:54:01+10:00</updated>
             <summary>
                 <![CDATA[
-                     services re computers 
+                    RepairI've been tinkering with computers for 30 years which gives me a good sense of how to troubleshoot and repair. There's a lot of issues I can address, and if it's beyond me I'll recommend professional services. What issues do you struggle with? Write a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    services re computers
-  </p>
+                <h3>Repair</h3>
+<p>I've been tinkering with computers for 30 years which gives me a good sense of how to troubleshoot and repair. There's a lot of issues I can address, and if it's beyond me I'll recommend professional services.</p>
+<h3>Tuition</h3>
+<p>What issues do you struggle with? Write a list of what frustrates you, and call me. I recommend one on one tuition sessions, we can straighten out a lot of kinks in an hour. Also see the <a href="https://russellausterberry.github.io/russellfix/tips.html">Tips </a>section for some of my general setup recommendations.</p>
+<h3>Setup</h3>
+<p>NBN. Routers. Antivirus. Email. Syncing settings. Password managers. Phones, tablets, laptops, desktops. iOS, Windows, Linux, Android. Copy stuff. Sort out folders. Whatever... give me a call!</p>
+<h3>Websites</h3>
+<p>Call me to discuss options.</p>
             ]]>
         </content>
     </entry>
@@ -97,29 +99,6 @@
                 
   <p>
     
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Services</title>
-        <author>
-            <name>Russell Austerberry</name>
-        </author>
-        <link href="https://russellausterberry.github.io/russellfix/services.html"/>
-        <id>https://russellausterberry.github.io/russellfix/services.html</id>
-
-        <updated>2021-01-01T20:54:01+10:00</updated>
-            <summary>
-                <![CDATA[
-                     jingo jungo services 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    jingo jungo services
   </p>
             ]]>
         </content>
