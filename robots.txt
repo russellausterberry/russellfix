@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://russellausterberry.github.io/russellfix/sitemap.xml
